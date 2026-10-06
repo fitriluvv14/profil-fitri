@@ -345,7 +345,7 @@
 
                 <div class="profile-circle">
 <img
-src=
+src="Screenshot_2026-07-10-07-30-41-11.jpg" alt="foto profil Fitri">
                     <i class="bi bi-person-fill"></i>
 
                 </div>
