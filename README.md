@@ -344,7 +344,8 @@
             <div class="col-md-5 text-center mt-4 mt-md-0">
 
                 <div class="profile-circle">
-
+<img
+src=
                     <i class="bi bi-person-fill"></i>
 
                 </div>
@@ -570,7 +571,7 @@
 
                     <div class="card-body text-center">
 
-                        <img src=""
+                        <img src="IMG-20261006-WA0004.jpg"
                              class="logo-jurusan"
                              alt="Logo RPL">
 
@@ -606,7 +607,7 @@
 
                     <div class="card-body text-center">
 
-                        <img src="assets/logo/dkv.svg"
+                        <img src="IMG-20261006-WA0003.jpg"
                              class="logo-jurusan"
                              alt="Logo DKV">
 
@@ -642,7 +643,7 @@
 
                     <div class="card-body text-center">
 
-                        <img src="assets/logo/peksos.svg"
+                        <img src="IMG-20261006-WA0007.jpg"
                              class="logo-jurusan"
                              alt="Logo PEKSOS">
 
@@ -678,7 +679,7 @@
 
                     <div class="card-body text-center">
 
-                        <img src="assets/logo/tkj.svg"
+                        <img src="IMG-20261006-WA0006.jpg"
                              class="logo-jurusan"
                              alt="Logo TKJ">
 
@@ -749,7 +750,7 @@
 
                     <div class="card-body text-center">
 
-                        <img src="assets/logo/pspt.svg"
+                        <img src="IMG-20261006-WA0005.jpg"
                              class="logo-jurusan"
                              alt="Logo PSPT">
 
