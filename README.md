@@ -714,7 +714,7 @@
 
                     <div class="card-body text-center">
 
-                        <img src="assets/logo/animasi.svg"
+                        <img src="IMG-20261006-WA0002.jpg"
                              class="logo-jurusan"
                              alt="Logo Animasi">
 
