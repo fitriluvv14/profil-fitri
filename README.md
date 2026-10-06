@@ -570,7 +570,7 @@
 
                     <div class="card-body text-center">
 
-                        <img src="assets/logo/rpl.svg"
+                        <img src=""
                              class="logo-jurusan"
                              alt="Logo RPL">
 
